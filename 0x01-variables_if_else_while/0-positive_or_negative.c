@@ -3,10 +3,10 @@
 #include <stdio.h>
 
 /**
- * main - determines whether a number is either positive or negative or if it is zero.
+ * main-determine the positivity negativity of a number or if it is zero.
  *
- * Return: Always 0.
-*/
+ * Return: Always zero.
+ */
 int main(void)
 {
 	int n;
