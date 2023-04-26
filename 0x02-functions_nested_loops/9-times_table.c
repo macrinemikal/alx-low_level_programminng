@@ -1,4 +1,4 @@
-#inlude "main.h"
+#include "main.h"
 
 /**
  * times_table -  prints the 9 times table, starting with 0
@@ -14,7 +14,7 @@ void times_table(void)
 			h = w * l;
 			if (w == 0)
 			{
-				_putchar (h + '0');
+			_putchar (h + 0);
 			}
 			if (h < 10 && w != 0)
 			{
